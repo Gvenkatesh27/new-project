@@ -11,3 +11,20 @@
     transform: translate(-50%,0%);
     display: none;
 }
+
+.body_login_back{
+    background-image: url("https://wallpaperaccess.com/full/1567666.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h2{
+    color: whitesmoke;
+}
+
+.checkbox{
+    color: whitesmoke;
+}
+.form-group{
+    color: whitesmoke;
+}

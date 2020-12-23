@@ -20,7 +20,7 @@ if(isset($_SESSION['user_status'])){
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body class = "body_login_back">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
