@@ -16,8 +16,6 @@
 include_once('db_config.php');
 include_once('navbar.php');
 
-
-
 $edit_id = $_GET['id'];
 if($edit_id != NULL){
     $fetch_query = mysqli_query($con,"select * from users where id=$edit_id");
