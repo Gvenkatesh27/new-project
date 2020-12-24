@@ -1,0 +1,112 @@
+h1{
+    
+    color:white;
+    background-color: black;
+    padding: 20px;
+    }
+    
+.clas{
+    color: white;
+    background-color: gray;
+    padding: 20px;
+    position: relative;
+    bottom: 25px;
+  
+}
+
+h3{
+    color:black;
+    margin: 125px;
+    position: relative;
+    bottom: 180px;
+
+}
+.classss{
+    color:black;
+    margin: 125px;
+   position: relative;
+   bottom: 300px;
+    
+}
+.classs
+{
+    color:orangered;
+    margin: 125px;
+    position: relative;
+    bottom: 400px;
+    
+}
+
+.demos{
+    color:red;
+    margin: 125px;
+    position: relative;
+    bottom: 500px;
+
+}
+
+.demo{
+    color:black;
+    margin: 125px;
+   position: relative;
+   bottom: 620px;
+}
+
+.dem{
+    color:orangered;
+    margin: 125px;
+    position: relative;
+    bottom: 720px;
+       
+}
+.demoss{
+    color:blue;
+    margin: 125px;
+    position: relative;
+    bottom: 810px;
+
+}
+
+.de{
+    color:black;
+    margin: 125px;
+   position: relative;
+   bottom: 900px;
+}
+.d{
+    color:orangered;
+    margin: 125px;
+    position: relative;
+    bottom: 1000px; 
+}
+.copy{
+    text-align: center;
+    background-color:black;
+    color: white;
+    position: relative;
+    top: 480px;
+    padding: 15px;
+}
+
+.cop{
+    color: orange;
+    
+}
+
+.ss{
+    color: orangered;
+    font-size: 70px;
+}
+
+.sam{
+    color: red;
+    text-align: right;
+}
+
+.links{
+    position: fixed;
+    float: right;
+    width: 100px;
+    text-align: right;
+
+}
