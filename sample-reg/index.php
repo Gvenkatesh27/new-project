@@ -11,7 +11,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
-<?php   ?>
+<?php    ?>
 <body class ="back-image">
     <div>
       <div class="container">
