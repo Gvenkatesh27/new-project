@@ -7,10 +7,10 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body class="topnavs">
-    
-    <h1 style="color:white">BUSINESS COMPANY</h1>
-
-    <div class ="topnav">
+<div class="company">
+    <h1>BUSINESS COMPANY</h1>
+</div>
+<div class ="topnav">
     <a href="#CONTACT US">CONTANTCS US</a>
     <a href="#ABOUT US">ABOUT US</a>
     <a href="#NEWS">NEWS</a>

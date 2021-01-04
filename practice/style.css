@@ -1,44 +1,58 @@
 .demosss{
   text-align: center;
-  padding: 150px;
-  background-color: greenyellow;
+  padding: 130px;
+  background-color:#59de0e;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+
+.images{
+  width: 160%;
+  height: 180%;
+  margin-bottom: 200%;
+}
+
+.company{
+  color: white;
 }
 
 .topnav a {
     float: right;
-    color:white;
-    padding: 14px 16px;
+    color:whitesmoke;
+    background-color:#59de0e;
+    padding: 20px 22px;
     text-decoration: none;
-    font-size: 25px;
-  }
+    font-size: 30px;
+    height: 130px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
   
-  .topnav a:hover {
+.topnav a:hover {
     background-color:black;
     color:white;
-  }
-  
-  
-  .topnav a.active {
-    background-color: #4CAF50;
-    color:white;
-  }
+}
 
-  .topnavs{
-      background-color:darkgreen;
+  
+.topnav a.active {
+    background-color: white;
+    color:green;
+    height: 130px;
+}
+
+.topnavs{
+    background-color:#26351e;
     background-repeat: no-repeat;
     background-size: cover;
-  }
+}
 
 
 
-.demo{
-  background-color: hotpink;
+.raise{
+  background-color:#26351e;
   background-repeat: no-repeat;
   background-size: cover;
-}
-.raise{
   color: white;
   position: relative;
   top: 600px;

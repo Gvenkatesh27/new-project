@@ -9,7 +9,7 @@
 <body>
     <div class ="raise">
         <h1>HUDDLE RISE</h1>
-        <p style="text-align:center;">all @copyrights reserved</p> 
+        <p style="text-align:right;">all @copyrights reserved</p> 
     </div>
 </body>
 </html>
