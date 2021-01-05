@@ -1,0 +1,58 @@
+h1{
+    color:white;
+}
+
+h3{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+.nav{
+    background-color: #031f03;
+}
+.active{
+    color: green;
+    background-color: white;
+}
+
+
+.body{
+    text-align: center;
+    padding: 20px;
+    padding-top: 130px;
+    background-color: #2bd02b;
+    
+}
+
+
+.nav ul{
+    float: right;
+    top: 10px;
+}
+
+
+#content1{
+    width: 30%;
+    height: 250px;
+    background-color: #031f03;
+    float: left;
+}
+
+
+#content2{
+    width: 40%;
+    height: 250px;
+    background-color:#031f03;
+    float: left;
+}
+
+
+#content3{
+    width: 30%;
+    height: 250px;
+    background-color: #031f03;
+    float: right;
+}
